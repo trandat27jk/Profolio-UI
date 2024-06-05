@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Porfolio UI</string>
+    <string name="name">Vo Long</string>
+    <string name="job">Android Programmer</string>
+    <string name="info_contact">\@themeCompose</string>
+    <string name="project_1">Project 1</string>
+    <string name="project_2">Project 2</string>
+    <string name="project_3">Project_3</string>
+    <string name="project_description">A great project</string>
+</resources>
